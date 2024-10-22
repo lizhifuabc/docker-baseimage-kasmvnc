@@ -395,4 +395,3 @@ COPY /root /
 
 # ports and volumes
 EXPOSE 3000 3001
-VOLUME /config
